@@ -4,8 +4,14 @@ In this paper, we will focus on addressing the challenge of customer retention t
 # Project Motivation
 Many companies have adopted business models based on monthly or annual subscriptions instead of one-time fees. However, this transition has introduced the challenge of retaining customers and avoiding the loss of subscriptions. The ability to predict and detect customer churn before it occurs has become critical for businesses that want to keep their customers paying.
 
+# Libraries used:
+- pySpark
+- Pandas
+- Seaborn
+- Numpy
+- Matplotlib
+
 # File Description
-- user_dataset.CSV:Data defined and extracted for the machine learning stage in spark format
 - user_dataset_definitive.CSV: Copied Data defined and extracted for the machine learning stage in CSV
 - mini_sparkify_event_data.json: only 128 MB portion of the original data set (It is not related in this repository but it is in the Udacity workspace)
 - Sparkify.ipynb: The main coding file in jupyter notebook format developed in Udacity workspace, where you can identify the step by step of the CRISP methodology applied in this project.
