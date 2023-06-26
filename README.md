@@ -26,4 +26,5 @@ Una oportunidad para profundizar en el proyecto es el ajuste y optimización de 
 # Acknowledgements
 https://stackoverflow.com/questions/tagged/capstone?tab=Votes
 https://www.kaggle.com/discussions/general/185307
+
 Please refer to: https://medium.com/@fabian.perez.arevalo/dont-let-the-music-stop-at-sparkify-ff51dd9db3e5
